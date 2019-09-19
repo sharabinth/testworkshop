@@ -1,0 +1,89 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@sharabinth 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+48
+00hashicorp/costco-workshop
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
+costco-workshop/docs/style.css
+@HashiSEBot HashiSEBot start of aws
+8816997 on 18 Jun
+@scarolan@HashiSEBot
+56 lines (46 sloc)  911 Bytes
+  
+@import "https://fonts.googleapis.com/css?family=Open+Sans|Alex+Brush";
+
+html {
+  background: url(hashibackground.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Open Sans";
+  font-size: 3.5em
+}
+
+h2 {
+  font-family: "Open Sans";
+  font-size: 2.5em
+}
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 25em
+}
+
+.hashilogo {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.centerblock {
+  margin-top: 20%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
